@@ -3,6 +3,6 @@
 抖音解析、快手解析、小红书解析、推特解析
 ![](https://github.com/hupo376787/GinkgoDownloader/blob/master/Snipaste_2024-10-07_23-11-57.jpg)
 
-微博下载器————> ![WeiboAlbumDownloader](https://github.com/hupo376787/WeiboAlbumDownloader)
+微博下载器————> [WeiboAlbumDownloader](https://github.com/hupo376787/WeiboAlbumDownloader)
 
 #代码暂时不开源，后续择机开源
